@@ -1,5 +1,5 @@
 # ERC1155Dyl
-The last contract tracitional one of one and recording web3 creatives will ever need. Created for web3 recording artist Dyl founder of Music NFT Radio, this contract is designed to service every aspect of NFT mints, while still allowing the creator keep control of the contract and assets. With this contract the creative has the following abilities:
+The last contract tracitional one of one and recording web3 creatives will ever need. Created for web3 recording artist Dyl founder of Music NFT Radio, this contract is designed to service every aspect of NFT mints, while still allowing the creator keep control of the contract and assets. With this contract the creative has the following abilities:[![MythXBadge](https://badgen.net/https/api.mythx.io/v1/projects/7ac53bb4-2a2d-42ee-b381-997591631c5d/badge/data?cache=300&icon=https://raw.githubusercontent.com/ConsenSys/mythx-github-badge/main/logo_white.svg)](https://docs.mythx.io/dashboard/github-badges)
 
   ***-Migrate and exsiting collection from a Marketplace lazy mint contract***
   
