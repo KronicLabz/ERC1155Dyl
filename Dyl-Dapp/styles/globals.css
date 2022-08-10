@@ -6,7 +6,7 @@
   --background-color: #ff7b08;
 
   /* Color of the text/words */
-  --text-color: rgb(255, 255, 255);
+  --text-color: #fff;
 
   /* Main color of your brand */
   --color-primary: #f213a4;
@@ -18,7 +18,7 @@
   --font: "Inter", sans-serif;
 
   /* Color of the border around items */
-  --border-color: rgb(255, 255, 255);
+  --border-color: #ff7b08;
 }
 
 /* --- Don't need to modify below here --- */

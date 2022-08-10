@@ -1,8 +1,7 @@
-import styles from "../../styles/Thirdweb.module.css";
 import React from "react";
 
 export default function ThirdwebGuideFooter() {
-  const url = "https://itslit.org/";
+  const url = "https://opensea.io/collection/dyl";
   return (
     <>
       <div
@@ -12,9 +11,9 @@ export default function ThirdwebGuideFooter() {
           right: -80,
           height: 300,
           width: 150,
-          border: "1px solid #eaeaea",
+          border: "4px solid #white",
           transform: "rotate(45deg)",
-          backgroundColor: " #262935",
+          backgroundColor: " #ff7b08",
           cursor: "pointer",
         }}
         role="button"
@@ -24,15 +23,14 @@ export default function ThirdwebGuideFooter() {
       <div
         style={{
           position: "fixed",
-          bottom: 4,
-          right: 8,
+          bottom: -4,
+          right: 1,
         }}
       >
         <img
           src={"/dyl.png"}
-          alt="https://lh3.googleusercontent.com/LoDJ2hRF5N69XcTrtVX7uc6gAktlc56g7X3-tNLhI_yKz7X6saB8BSKvbbgJ3AQOVya1xF9mGPnSfoWSzw26G2y2vrpSaqdKbAbv"
-          width={70}
-          height={70}
+          width={80}
+          height={80}
           role="button"
           style={{ cursor: "pointer" }}
           onClick={() => window.open(url, "_blank")}
