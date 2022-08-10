@@ -1,0 +1,30 @@
+{
+  "..\\node_modules\\@thirdweb-dev\\react\\dist\\index.mjs -> ./es-OFYRVM2A.mjs": {
+    "id": 40720,
+    "files": [
+      "static/chunks/720.630d1c991df36350.js"
+    ]
+  },
+  "..\\node_modules\\@thirdweb-dev\\react\\dist\\index.mjs -> @gnosis.pm/safe-core-sdk": {
+    "id": 3893,
+    "files": [
+      "static/chunks/190.52c19f4eb4d06ac3.js",
+      "static/chunks/893.a85d8de372176cf6.js",
+      "static/chunks/799.f83e5ac4d14fc060.js"
+    ]
+  },
+  "..\\node_modules\\@thirdweb-dev\\react\\dist\\index.mjs -> @gnosis.pm/safe-ethers-adapters": {
+    "id": 61490,
+    "files": [
+      "static/chunks/490.4a88902768d34461.js"
+    ]
+  },
+  "..\\node_modules\\@thirdweb-dev\\react\\dist\\index.mjs -> @gnosis.pm/safe-ethers-lib": {
+    "id": 40627,
+    "files": [
+      "static/chunks/190.52c19f4eb4d06ac3.js",
+      "static/chunks/627.544bfcbdc3efd606.js",
+      "static/chunks/519.9b81eaafc593e150.js"
+    ]
+  }
+}
