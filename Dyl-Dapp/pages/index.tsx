@@ -11,6 +11,12 @@ import {
 } from "@thirdweb-dev/sdk";
 import type { NextPage } from "next";
 import styles from "../styles/Home.module.css";
+import { useContract } from "@thirdweb-dev/react";
+
+export default function Component() {
+  const { contract } = useContract("0x3EC3141Aa4577b4Aa8273B15D5f0f6Fe1E1916A7");
+  // Now you can use the contract in the rest of the component
+}
 
 const Home: NextPage = () => {
   const address = useAddress();
