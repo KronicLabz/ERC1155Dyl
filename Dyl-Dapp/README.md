@@ -5,7 +5,7 @@ utilize both the [claim](https://portal.thirdweb.com/pre-built-contracts/signatu
 of a claim condition, as well as the [Signature-based minting](https://portal.thirdweb.com/advanced-features/on-demand-minting) feature to
 offer free NFT mints to specific users simultaneously.
 
-![demo](demo.png)
+
 
 We allow users who hold one of our [Early Access NFTs](https://opensea.io/collection/thirdweb-community) to mint the NFT for free, by generating a mint signature from the admin wallet on the server-side. Whereas users who _don't_ hold one of the NFTs do not qualify for the mint signature, but can still mint an NFT from the drop using the regular claim.
 
